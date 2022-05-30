@@ -5,3 +5,5 @@
 - the leftover vertical beck extrusion cut to 120mm for bed front extrusion.
 - mid-panel moved to the back, needs to be cut in half and trimmed, also cutouts for A/B steppers, alternatively can be printed.
 - new motor panel (the best option is to have the PCB 14p connector)
+
+![PIC](Images/3Frog-PIC01.png)
