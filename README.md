@@ -2,7 +2,7 @@
 
 - Tryfer Bach - Mini Trident (Welsh) 
 
-#The frame is the same. Well, mostly, what changes:
+## The frame is the same. Well, mostly, what changes:
 - add 1 extra MGN7 rail
 - for bed front extrusion, use MeakerBeam XL 15x15 cube (or cut to 120mm the leftover vertical back extrusion)
 - for the 2 bed extrusion, use 7 mm spacer cut out of left over MeakerBeam XL or use 7x 1mm M5 spacers, I've also designed part taht can be use with or w/o spacers. 
