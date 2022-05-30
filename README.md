@@ -7,6 +7,7 @@
 - you need 2 mm foam tape for the side panels, the MGN7 carriage is 17 mm, the extrusions are 15 mm
 
 Still need to test alternative to cut/add 15x15 cube to the bed front beam. Basically add 10 mm more material to the front bed mount. Just the thermal properties of this solution need to be tested, as the heat from the bed may transfer to the M4 knurled nut, and to the plastic.
+In this case, best use M4/M5 Stainless Steel Knurled Thumb Nut, as Stainless Steel will transfer less heat.
 
 ![PIC](Images/3Frog-PIC02.png)
 
