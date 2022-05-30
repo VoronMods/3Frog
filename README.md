@@ -10,4 +10,8 @@ Still need to test alternative to cut/add 15x15 cube to the bed front beam. Basi
 
 ![PIC](Images/3Frog-PIC02.png)
 
+## The same goes for the rear bed mount, here are just 7.5 mm
+
+![PIC](Images/3Frog-PIC03.png)
+
 ![PIC](Images/3Frog-PIC01.png)
