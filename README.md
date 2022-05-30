@@ -1,6 +1,8 @@
 ## Voron V0.1 mod with 3 Z steppers like Trident and same build volume of 120x120x120
 
-Nme option - Tryfer (Welsh)
+Nme options:
+- Tryfer (Welsh)
+- Wa'maH (Klingon)          
 
 #The frame is the same. Well, mostly, what changes:
 - add 1 extra MGN7 rail
