@@ -9,6 +9,8 @@
 - you need 2 mm foam tape for the side panels, the MGN7 carriage is 17 mm, the extrusions are 15 mm
 - for probe, Super PINDA and later Euclid/Klicky with side swipe system
 
+you will also need a controller board for 6 steppers, you can also use the 2 stepper controller Tircown easy board ERCF connected over USB to RPi and controller with this board the A/B steppers, the rest with the original V0.1 controller board.
+
 Still need to test alternative to cut/add 15x15 cube to the bed front beam. Basically add 10 mm more material to the front bed mount. Just the thermal properties of this solution need to be tested, as the heat from the bed may transfer to the M4 knurled nut, and to the plastic.
 In this case, best use M4/M5 Stainless Steel Knurled Thumb Nut, as Stainless Steel will transfer less heat.
 
